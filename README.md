@@ -17,7 +17,7 @@ Using the Home Credit dataset, we:
 
 ## Notebook (Technical Work)
 
-👉 https://nbviewer.org/github/lacydove-art/selection-bias-credit-risk/blob/main/notebook.ipynb
+👉 https://github.com/Asanan122/selection-bias-credit-risk-project/blob/main/notebook.ipynb
 
 ## Key Insight
 
